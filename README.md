@@ -30,7 +30,6 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
 
 <h3> 🤝🏻 &nbsp;Contac Me </h3>
 
-<p align="center">
 [Linkedin Badge](https://img.shields.io/badge/-Alberto_Fernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertofernandezav/)](https://www.linkedin.com/in/albertofernandezav/) [![Gmail Badge](https://img.shields.io/badge/-alferavil88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alferavil88@gmail.com)](mailto:alferavil88@gmail.com)
-</p>
+
 
