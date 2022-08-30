@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
 - 🤔 I'm interested in exploring new technologies and developing software solutions and quick hacks.
 - 📚 I’m currently learning web development using React Js, NodeJS, ExpressJS and PostgreSQL.
 - 👯 I’m looking for a software development Junior position. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,7 +31,6 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
 <h3> 🤝🏻 &nbsp;Contac Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/albertofernandezav/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-[![Email](https://img.shields.io/badge/alferavil88@gmail.com?style=flat-square&logo=gmail&logoColor=white)](mailto:alferavil88@gmail.com)
+[Linkedin Badge](https://img.shields.io/badge/-Alberto_Fernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertofernandezav/)](https://www.linkedin.com/in/albertofernandezav/) [![Gmail Badge](https://img.shields.io/badge/-alferavil88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alferavil88@gmail.com)](mailto:alferavil88@gmail.com)
 </p>
 
