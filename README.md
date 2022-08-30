@@ -23,10 +23,7 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
   
   <br/>
 
-<a href="https://github.com/Ajota88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajota88&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajota88&theme=buefy&layout=compact" />
-</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ajota88&theme=highcontrast&show_icons=true&count_private=true)
 
 <h3> 🤝🏻 &nbsp;Contac Me </h3>
 
