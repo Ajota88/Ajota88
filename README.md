@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
   <br/>
