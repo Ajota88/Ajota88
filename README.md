@@ -28,10 +28,10 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajota88&theme=buefy&layout=compact" />
 </a>
 
-h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contac Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/albertofernandezav/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="alferavil88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+[![Email](https://img.shields.io/badge/alferavil88@gmail.com?style=flat-square&logo=gmail&logoColor=white)](mailto:alferavil88@gmail.com)
 </p>
 
