@@ -25,6 +25,8 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ajota88&theme=highcontrast&show_icons=true&count_private=true)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajota88&layout=compact)
+
 <h3> 🤝🏻 &nbsp;Contac Me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alberto_Fernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertofernandezav//)](https://www.linkedin.com/in/albertofernandezav/) [![Gmail Badge](https://img.shields.io/badge/-alferavil88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alferavil88@gmail.com)](mailto:alferavil88@gmail.com)
