@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer who is passionate about writing code, solving pro
 - 🔭 I’m currently a Full Stack student at Henry bootcamp.
 - 🤔 I'm interested in exploring new technologies and developing software solutions and quick hacks.
 - 📚 I’m currently learning web development using React Js, NodeJS, ExpressJS and PostgreSQL.
-- 👯 I’m looking for a software development Junior position. 
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
